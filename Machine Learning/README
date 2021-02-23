@@ -1,0 +1,18 @@
+This course focuses on core algorithmic and statistical concepts in machine learning. Tools from machine learning are now ubiquitous in the sciences with applications in 
+engineering, computer vision, and biology, among others. This class introduces the fundamental mathematical models, algorithms, and statistical tools needed to perform core 
+tasks in machine learning. Applications of these ideas are illustrated using programming examples on various data sets.
+
+Topics include pattern recognition, PAC learning, overfitting, decision trees, classification, linear regression, logistic regression, gradient descent, feature projection, 
+dimensionality reduction, maximum likelihood, Bayesian methods, and neural networks.
+
+- Mistake Bounded Learning
+- Decision Trees; PAC Learning
+- Cross Validation; VC Dimension; Perceptron
+- Linear Regression; Gradient Descent
+- Boosting
+- PCA; SVD
+- Maximum likelihood estimation
+- Bayesian inference
+- K-means and EM
+- Multivariate models and graphical models
+- Neural networks; generative adversarial networks (GAN)
